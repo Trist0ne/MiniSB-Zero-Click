@@ -5,7 +5,7 @@ The cowling of the LGXL has been modified to fit the ZeroClick mount, since the 
 Please note that due to some dimensional changes in the miniSB, **you must use the included modified ZeroClick mount**. The remainder of the probe components are the same as
 the stock Zero Click.
 
-Additionally, to fit the dock, **one of the nozzle LED slots has been removed**. This does **NOT** affect the cooling ducts, and the other LED slot has been left in place if you wanted to add a single LED.
+Additionally, to fit the probe mount, **one of the nozzle LED slots has been removed**. This does **NOT** affect the cooling ducts, and the other LED slot has been left in place if you wanted to add a single LED.
 
 This mod is compatible with both the v0.1 and the v0.2; both models **must** use the included carriage
 
