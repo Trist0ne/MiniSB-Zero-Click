@@ -9,6 +9,8 @@ Additionally, to fit the probe mount, **one of the nozzle LED slots has been rem
 
 This mod is compatible with both the v0.1 and the v0.2; both models **must** use the included carriage
 
+This mod is currently in **TESTING**; I'm currently verifying it all works nicely together, so make at your own risk!
+
 ### Smol Mount
 ![1](Images/Front_View.png)
 ### Precut Holes
